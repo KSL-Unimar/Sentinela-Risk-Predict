@@ -1,0 +1,15 @@
+tracker_type: bytetrack
+
+# Limites de confiança
+track_high_thresh: 0.25
+track_low_thresh: 0.10
+new_track_thresh: 0.25
+
+# Tempo de tolerância para perda de detecção
+track_buffer: 90
+
+# Critério de associação
+match_thresh: 0.80
+
+# Combina confiança com associação
+fuse_score: True

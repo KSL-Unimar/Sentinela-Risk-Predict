@@ -1,0 +1,25 @@
+track_id,object_class,first_seen_seconds,last_seen_seconds,observed_interval_seconds,frames,average_confidence,event,status
+1,car,0.03,133.17,133.13,3995,0.8762,Prolonged observation interval,Requires human review
+2,car,0.03,133.17,133.13,3995,0.8448,Prolonged observation interval,Requires human review
+3,car,0.03,133.17,133.13,3994,0.8325,Prolonged observation interval,Requires human review
+4,car,0.03,133.17,133.13,3995,0.84,Prolonged observation interval,Requires human review
+6,car,0.03,133.17,133.13,3995,0.8156,Prolonged observation interval,Requires human review
+7,car,0.03,133.17,133.13,3993,0.7342,Prolonged observation interval,Requires human review
+9,car,0.03,133.17,133.13,3995,0.7624,Prolonged observation interval,Requires human review
+10,car,0.03,133.17,133.13,3995,0.6955,Prolonged observation interval,Requires human review
+11,car,0.03,133.17,133.13,3995,0.721,Prolonged observation interval,Requires human review
+12,car,0.03,133.17,133.13,3995,0.7475,Prolonged observation interval,Requires human review
+13,car,0.03,133.17,133.13,3995,0.8225,Prolonged observation interval,Requires human review
+14,car,0.03,133.17,133.13,3995,0.7152,Prolonged observation interval,Requires human review
+15,car,0.03,93.77,93.73,2813,0.7148,Prolonged observation interval,Requires human review
+16,car,0.03,133.17,133.13,3995,0.7525,Prolonged observation interval,Requires human review
+17,car,0.03,133.17,133.13,3975,0.6639,Prolonged observation interval,Requires human review
+18,car,0.03,133.17,133.13,3995,0.6212,Prolonged observation interval,Requires human review
+19,car,0.03,133.17,133.13,3995,0.5996,Prolonged observation interval,Requires human review
+20,car,0.03,133.17,133.13,3995,0.5394,Prolonged observation interval,Requires human review
+21,car,0.03,133.17,133.13,3993,0.4613,Prolonged observation interval,Requires human review
+22,car,0.03,133.17,133.13,3995,0.4114,Prolonged observation interval,Requires human review
+23,car,0.03,133.17,133.13,3995,0.3958,Prolonged observation interval,Requires human review
+57,car,2.37,120.43,118.07,3273,0.2093,Prolonged observation interval,Requires human review
+241,person,52.43,83.17,30.73,840,0.6261,Prolonged observation interval,Requires human review
+380,car,92.8,133.17,40.37,1212,0.6465,Prolonged observation interval,Requires human review
